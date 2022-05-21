@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: carts
-        image: 893832139868.dkr.ecr.us-west-2.amazonaws.com/shopping-cart
+        image: navo99/shoppingcart2-service
         ports:
         - containerPort: 3002
